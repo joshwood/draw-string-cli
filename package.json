@@ -1,0 +1,9 @@
+{
+  "name": "draw-string-cli",
+  "version": "0.0.1",
+  "dependencies": {
+    "nopt": "~1.0.10",
+    "inquirer": "~0.4.1",
+    "restler": "~3.1.0"
+  }
+}
